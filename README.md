@@ -44,13 +44,13 @@ I thrive on building optimized hardware architectures, solving timing and area c
 | Zilla Parishad High School, Jarajapupeta   | ssc 10th |  -  |
 
 ### Bachelor of Technology in Electronics and Communication Engineering 
-*Aditya engineering colege *
+*Aditya engineering colege*
 
 ### Diploma in Electronics and Communication Engineering 
 *Government Polytechnic, Parvathipuram*
 
 ### ssc 10th in 
-*Zilla Parishad High School, Jarajapupeta  *
+*Zilla Parishad High School, Jarajapupeta*
 
 ## 💼 Internships
 
