@@ -1,6 +1,5 @@
 <div align="center">
- <img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/484e134d-b57f-44b9-bae8-77756d466e6f" />
-
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/f2afe1ff-9350-4846-9b2e-5ab3c8b700dd" />
 </div>
 
 <div align="center">
