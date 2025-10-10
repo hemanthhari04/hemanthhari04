@@ -104,7 +104,7 @@ I thrive on building optimized hardware architectures, solving timing and area c
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🎯 I’ve always believed that design is more than logic — it’s creativity on silicon!
 
 **Thank you for visiting my profile! 😊**
 
