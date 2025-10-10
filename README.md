@@ -31,7 +31,7 @@ I thrive on building optimized hardware architectures, solving timing and area c
 
 <div align="left">
 
-- 🌱 I'm currently learning **I’m currently learning Advanced VLSI Design and Verification, with a strong focus on SystemVerilog, UVM, and RTL-to-GDSII flow using Cadence EDA tools like Genus, Innovus, Tempus, and Virtuoso. I’m enhancing my expertise in digital logic design, synthesis, timing analysis, and physical implementation, while also gaining hands-on experience in functional verification, testbench creation, and FPGA prototyping. Additionally, I’m exploring low-power design techniques and timing optimization for efficient ASIC development.**
+- 🌱 I'm currently learning ** Advanced VLSI Design and Verification, with a strong focus on SystemVerilog, UVM, and RTL-to-GDSII flow using Cadence EDA tools like Genus, Innovus, Tempus, and Virtuoso. I’m enhancing my expertise in digital logic design, synthesis, timing analysis, and physical implementation, while also gaining hands-on experience in functional verification, testbench creation, and FPGA prototyping. Additionally, I’m exploring low-power design techniques and timing optimization for efficient ASIC development.**
 
 </div>
 
