@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm HARI HEMANTH
 
-### Aspiring VLSI Engineer | Digital Design Enthusiast | Hardware Innovator
+### Aspiring VLSI Engineer | Digital Design Enthusiast | Hardware Innovator | IEEE Member | Content creator
 
 </div>
 
