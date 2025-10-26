@@ -108,6 +108,6 @@ I thrive on building optimized hardware architectures, solving timing and area c
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hemanthhari04&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
