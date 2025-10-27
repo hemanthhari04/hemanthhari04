@@ -1,113 +1,226 @@
 <div align="center">
-<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/f2afe1ff-9350-4846-9b2e-5ab3c8b700dd" />
+  <img src="https://private-user-images.githubusercontent.com/185375695/499892656-f2afe1ff-9350-4846-9b2e-5ab3c8b700dd.png-8e14-49b2-85ab-e1efbd6e2aa2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU5Mjc4MjksIm5iZiI6MTc0NTkyNzUyOSwicGF0aCI6Ii8xODUzNzU2OTUvZDhlYTZhY2UtOGUxNC00OWIyLTg1YWItZTFlZmJkNmUyYWEyLnBuZz9YLUFtSW93Q0NnS0NBZ1FFQXdJREJ3VUFBQUFBRElKZ1J3Qk9BRUFBQ0hBVSIsImJlaCI6ImFhZjVkOGM4YTA2MTI2NmY5MDc1YzcwZDEwNGJhOGQ1OGY4NDdkM2YifQ.jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1NDc2ODcsIm5iZiI6MTc2MTU0NzM4NywicGF0aCI6Ii8xODUzNzU2OTUvNDk5ODkyNjU2LWYyYWZlMWZmLTkzNTAtNDg0Ni05YjJlLTVhYjNjOGI3MDBkZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyN1QwNjQzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MWExZTcyM2RhYjhkNDlkMzg2ZWRiYTE5NjI3Njc4ODljZmVkNDExODg2M2E0MTlkYzEwYzdhZDdmOTQ3ZjY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.anlZSom5LaTCpPz52LjScvP661XEySCNC3uzALNLrrA-68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d68656d616e74686861726930342673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374-d08c3268-60bd6c99-68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68656d616e74686861726930342673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="Grey and Black Simple Marketing LinkedIn Banner" />
 </div>
-
-<div align="center">
 
 # Hi 👋, I'm HARI HEMANTH
 
-### Aspiring VLSI Engineer | Digital Design Enthusiast | Hardware Innovator | IEEE Member | Content creator
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=VLSI+Design+Engineer;Digital+Logic+Enthusiast;RTL+Design+%26+Verification;Verilog+%26+SystemVerilog+Developer" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🚀 About Me
 
-Passionate about VLSI Design, Semiconductor Technology, and Digital Systems
-🔹 Skilled in Verilog/SystemVerilog, RTL Design, FPGA Prototyping, and Microcontroller Programming
-🔹 Experienced in EDA Tools such as Cadence Virtuoso, Genus, Innovus ,Tempus, Xillium ,Conformal LEC   and ModelSim
-🔹 Keen interest in ASIC Design, SoC Integration, and AI-Hardware Co-Design
+<div align="left">
 
-I thrive on building optimized hardware architectures, solving timing and area challenges, and crafting next-generation silicon solutions. My passion lies in blending low-level digital logic with high-level embedded intelligence, always pushing toward efficient, scalable, and innovative chip designs.
+- 🎓 Passionate **VLSI Design Engineer** with expertise in **RTL Design & Verification**
+- 💡 Specialized in **Digital Circuit Design**, **FPGA Development**, and **Hardware Description Languages**
+- 🔬 Focused on creating efficient and optimized digital systems
+- 🌱 Currently expanding knowledge in **Advanced Verification Methodologies** and **Low-Power Design Techniques**
+
+</div>
+
+---
 
 ## 💼 Current Work
 
 <div align="left">
 
-- 🔭 I'm currently working on [**Low Power DSP Module Using Approximate Circuits **](https://sites.google.com/view/synthesissquad/report?authuser=0)
+- 🔭 Working on **VLSI Design Projects** involving complex digital architectures
+- 🚀 Developing **100 Days of Verilog** challenge to master HDL fundamentals
+- 📐 Designing and verifying **RTL modules** for real-world applications
+- 🎯 Building expertise in **ASIC Design Flow** and **Synthesis Optimization**
 
 </div>
+
+---
 
 ## 📚 Learning & Knowledge
 
 <div align="left">
 
-- 🌱 I'm currently learning **Advanced VLSI Design and Verification, with a strong focus on SystemVerilog, UVM, and RTL-to-GDSII flow using Cadence EDA tools like Genus, Innovus, Tempus, and Virtuoso. I’m enhancing my expertise in digital logic design, synthesis, timing analysis, and physical implementation, while also gaining hands-on experience in functional verification, testbench creation, and FPGA prototyping. Additionally, I’m exploring low-power design techniques and timing optimization for efficient ASIC development.**
+- 🌱 Currently mastering **SystemVerilog**, **UVM Testbenches**, and **Formal Verification**
+- 📖 Exploring **Advanced Digital Design Patterns** and **FPGA Architecture**
+- 🔧 Learning **EDA Tools**: Cadence, Synopsys, Xilinx Vivado, ModelSim
+- 💻 Programming: **Verilog**, **SystemVerilog**, **Python**, **C**, **TCL Scripting**
 
 </div>
 
-## 🎓 Education
+---
 
-| Institution | Degree | Duration |
-|---|---|---|
-| Aditya engineering colege  | Bachelor of Technology |  -  |
-| Government Polytechnic, Parvathipuram | Diploma |  -  |
-| Zilla Parishad High School, Jarajapupeta   | ssc 10th |  -  |
-
-### Bachelor of Technology in Electronics and Communication Engineering 
-*Aditya engineering colege*
-
-### Diploma in Electronics and Communication Engineering 
-*Government Polytechnic, Parvathipuram*
-
-### ssc 10th in 
-*Zilla Parishad High School, Jarajapupeta*
-
-## 💼 Internships
-
-| Company | Position | Duration |
-|---|---|---|
-| Technical hub | intern | 2025-10 -  |
-| BSNL (Bharat Sanchar Nigam Limited )  | intern | 2022-07 - 2023-01 |
-
-### intern at Technical hub
-
-### intern at BSNL (Bharat Sanchar Nigam Limited ) 
-
-## 📞 Contact & Links
+## 📞 Contact Information
 
 <div align="left">
 
-- 📫 How to reach me **23a95a0425@aec.edu.in**
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/harihemanth04/home](https://sites.google.com/view/harihemanth04/home)
-- 📄 Know about my experiences [https://drive.google.com/file/d/11k_ACQpoWl0eIWyWH5U0sGCouJuVW1TA/view?usp=sharing](https://drive.google.com/file/d/11k_ACQpoWl0eIWyWH5U0sGCouJuVW1TA/view?usp=sharing)
+- 📫 Reach me at: **23a95a0425@aec.edu.in**
+- 👨‍💻 Portfolio: [https://sites.google.com/view/harihemanth04/home](https://sites.google.com/view/harihemanth04/home)
+- 📄 Resume: [View My Experience](https://drive.google.com/file/d/11k_ACQpoWl0eIWyWH5U0sGCouJuVW1TA/view?usp=sharing)
 
 </div>
+
+---
 
 ## ⚡ Fun Fact
 
 <div align="center">
-
-*I enjoy turning digital logic concepts into creative waveform art using Verilog HDL — blending technology and creativity on a single simulation screen!*
-
+  <em>I enjoy turning digital logic concepts into creative waveform art using Verilog HDL — blending technology and creativity on a single simulation screen!</em>
 </div>
+
+---
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthhari04)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harihemanth0406/)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harisuresh254)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@harihemanth04)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9985745754)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthhari04)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harihemanth0406/)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harisuresh254)   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@harihemanth04)   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9985745754)
 
 </div>
 
-## 📊 GitHub Stats & Activity
+---
+
+# 📊 GitHub Analytics & Performance Metrics
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthhari04&show_icons=true&locale=en&layout=compact" alt="hemanthhari04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthhari04&show_icons=true&locale=en" alt="hemanthhari04" /></p>
+## 📈 Contribution Activity Overview
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthhari04&" alt="hemanthhari04" /></p>
+<p align="center">
+  <em>Comprehensive visualization of my GitHub contributions and development activity</em>
+</p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthhari04&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
 
+---
+
+## 📅 Annual Contribution Calendar
+
+<p align="center">
+  <em>Year-over-year contribution patterns demonstrating consistent engagement</em>
+</p>
+
+<img src="https://ghchart.rshah.org/2F80ED/hemanthhari04" alt="GitHub Contribution Calendar" width="85%" />
+
+---
+
+## 🏆 GitHub Statistics Dashboard
+
+<p align="center">
+  <em>Comprehensive metrics showcasing repository performance and coding patterns</em>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hemanthhari04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthhari04&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Dynamic Language Usage Distribution
+
+<p align="center">
+  <em>Real-time analysis of programming languages utilized across all repositories</em>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthhari04&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" width="50%" />
+
+### 🔧 Technical Skills Breakdown
+
+<div align="center">
+
+![Verilog](https://img.shields.io/badge/Verilog-45%25-blue?style=flat-square&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-25%25-purple?style=flat-square&logo=v&logoColor=white)
+![Python](https://img.shields.io/badge/Python-15%25-yellow?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-10%25-green?style=flat-square&logo=c&logoColor=white)
+![TCL](https://img.shields.io/badge/TCL-5%25-red?style=flat-square&logo=tcl&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Repository Performance Analysis
+
+<p align="center">
+  <em>Top repositories ranked by engagement metrics and technical significance</em>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/hemanthhari04/100-days-verilog">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthhari04&repo=100-days-verilog&theme=tokyonight&hide_border=true" alt="100 Days Verilog Repository" />
+</a>
+
+### 📌 Featured Projects Pie Chart Distribution
+
+```mermaid
+pie title Repository Engagement by Category
+    "VLSI Design" : 45
+    "RTL Verification" : 30
+    "FPGA Projects" : 15
+    "Learning Resources" : 10
+```
+
+</div>
+
+---
+
+## 🏅 GitHub Achievements & Trophies
+
+<p align="center">
+  <em>Recognition and milestones earned through consistent contributions</em>
+</p>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hemanthhari04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="95%" />
+
+</div>
+
+---
+
+## 📉 Detailed Commit Analytics
+
+<p align="center">
+  <em>Temporal distribution of development activity and code contribution patterns</em>
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthhari04&theme=tokyonight" alt="Profile Details" width="95%" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemanthhari04&theme=tokyonight" alt="Repos per Language" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemanthhari04&theme=tokyonight" alt="Most Commit Language" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemanthhari04&theme=tokyonight" alt="Stats" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemanthhari04&theme=tokyonight" alt="Productive Time" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🎯 I’ve always believed that design is more than logic — it’s creativity on silicon!
+### 🎯 *"Design is more than logic — it's creativity on silicon!"*
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hemanthhari04&color=2F80ED&style=flat-square&label=Profile+Views)
 
 </div>
