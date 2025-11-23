@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/1340e4cd-7bba-4a6e-8422-b6fd516200dd" />
+  <img width="1584" height="396" alt="git baner" src="https://github.com/user-attachments/assets/7d8c274a-446a-4f4b-a895-3e2a8a0b3bb0" />
 </div>
 
 # Hi 👋, I'm HARI HEMANTH
